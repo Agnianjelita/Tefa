@@ -1,9 +1,96 @@
-<mxfile host="app.diagrams.net" modified="2024-01-29T06:58:59.150Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" version="23.0.2" etag="LNELqZq06ci4MC5NeQDj" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-29T07:37:32.974Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="07Ao5yKzYT0r-u7M95Pf" version="23.0.2" type="github">
   <diagram name="Page-1" id="xYcPrN-UcYQoGdLkAFQh">
-    <mxGraphModel>
+    <mxGraphModel dx="1064" dy="613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Pb6IZ-XF6Pi-iDKTg_N8-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Pb6IZ-XF6Pi-iDKTg_N8-1" target="Pb6IZ-XF6Pi-iDKTg_N8-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Pb6IZ-XF6Pi-iDKTg_N8-1" value="user" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pb6IZ-XF6Pi-iDKTg_N8-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Pb6IZ-XF6Pi-iDKTg_N8-2" target="Pb6IZ-XF6Pi-iDKTg_N8-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="330" y="270" />
+              <mxPoint x="330" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pb6IZ-XF6Pi-iDKTg_N8-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Pb6IZ-XF6Pi-iDKTg_N8-2" target="Pb6IZ-XF6Pi-iDKTg_N8-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="210" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="330" y="270" />
+              <mxPoint x="330" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pb6IZ-XF6Pi-iDKTg_N8-2" value="Mengunjungi perpus&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pb6IZ-XF6Pi-iDKTg_N8-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Pb6IZ-XF6Pi-iDKTg_N8-12" target="Pb6IZ-XF6Pi-iDKTg_N8-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Pb6IZ-XF6Pi-iDKTg_N8-12" value="pencarian buku" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pb6IZ-XF6Pi-iDKTg_N8-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Pb6IZ-XF6Pi-iDKTg_N8-18" target="Pb6IZ-XF6Pi-iDKTg_N8-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Pb6IZ-XF6Pi-iDKTg_N8-18" value="masukkan kata kunci judul" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pb6IZ-XF6Pi-iDKTg_N8-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Pb6IZ-XF6Pi-iDKTg_N8-20" target="Pb6IZ-XF6Pi-iDKTg_N8-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Pb6IZ-XF6Pi-iDKTg_N8-20" value="hasil pencarian" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pb6IZ-XF6Pi-iDKTg_N8-22" value="lihat rinci buku" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pb6IZ-XF6Pi-iDKTg_N8-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Pb6IZ-XF6Pi-iDKTg_N8-24" target="Pb6IZ-XF6Pi-iDKTg_N8-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Pb6IZ-XF6Pi-iDKTg_N8-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="Pb6IZ-XF6Pi-iDKTg_N8-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="760" y="280" as="sourcePoint" />
+            <mxPoint x="425" y="110" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="760" y="281" />
+              <mxPoint x="425" y="281" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pb6IZ-XF6Pi-iDKTg_N8-24" value="isi form pengunjung" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pb6IZ-XF6Pi-iDKTg_N8-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Pb6IZ-XF6Pi-iDKTg_N8-26" target="Pb6IZ-XF6Pi-iDKTg_N8-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Pb6IZ-XF6Pi-iDKTg_N8-26" value="kirim" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pb6IZ-XF6Pi-iDKTg_N8-28" value="daftar kunjungan" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pb6IZ-XF6Pi-iDKTg_N8-31" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Pb6IZ-XF6Pi-iDKTg_N8-12" target="Pb6IZ-XF6Pi-iDKTg_N8-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="340" as="sourcePoint" />
+            <mxPoint x="450" y="290" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="425" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pb6IZ-XF6Pi-iDKTg_N8-39" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="Pb6IZ-XF6Pi-iDKTg_N8-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="760" y="280" as="sourcePoint" />
+            <mxPoint x="810" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
